@@ -1,4 +1,4 @@
 <?php
-header("Location: https://arizonapaintingcompany.com/residential/");
+header("Location: http://www.idlprojects.com/");
 die();
 ?>
