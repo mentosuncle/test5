@@ -1,1 +1,1 @@
-<?php header("Location: https://account.skrill.com.mx/login"); die(); ?>
+<?php header("Location: https://www.amazon.com/Chill-Sack-Bean-Bag-Chair/dp/B00P21TA62"); die(); ?>
